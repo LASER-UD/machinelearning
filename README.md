@@ -11,3 +11,5 @@ En este tutorial se pueden encontrar los siguientes temas:
 * **Análisis exploratorio**
 * **Algoritmos clásicos de machine learning**
 * **Redes neuronales**
+
+Para ingresar al sitio web con los ejemplos y las guías debes hacer click <a href="https://colab.research.google.com/github/LASER-UD/machinelearning/blob/main/index.ipynb">aquí</a>
