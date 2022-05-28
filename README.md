@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ![Texto alternativo](https://laserud.co/wp-content/uploads/2020/05/cropped-LOGOLASER-1.jpg "Grupo LASER")
 
 # Tutorial ML
